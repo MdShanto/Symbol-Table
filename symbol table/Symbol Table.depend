@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1562102839 source:c:\users\asus\desktop\symbol table\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<map>
+
+1562102839 source:f:\compiler design lab\symbol table 1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<map>
+
